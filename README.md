@@ -1,7 +1,3 @@
-这里是优化后的 `README.md`，改进了整体排版、可读性，并增强了美观性和一致性：
-
----
-
 # Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification  
 
 ## Overview  
