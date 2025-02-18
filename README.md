@@ -7,7 +7,8 @@ This repository implements a gaze-guided learning approach to improve visual cla
 The pretrained ViT model can be downloaded from the following link:  
 [ViT Pretrained Model](https://drive.google.com/file/d/1FPUIYmZ4ooMbWByXUzBRNGLcrIYvNsxz/view?usp=drive_link)  
 
-## Dataset  
+## Dataset
+![Example Image](https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/EX.png)
 The Gaze-CIFAR-10 dataset can be downloaded from:  
 [Gaze-CIFAR-10🚀🚀🚀](https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB?usp=drive_link)  
 
