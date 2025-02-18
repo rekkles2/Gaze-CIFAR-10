@@ -38,6 +38,6 @@ python predict1.py
 ---
 
 ## Citation  
-If you find this code or dataset useful in your research, please cite our work accordingly.  
+🍟🍔🥂If you find this code or dataset useful in your research, please cite our work accordingly.  
 
 ---
