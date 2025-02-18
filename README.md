@@ -1,7 +1,8 @@
 # Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification
 
 ## Overview  
-This repository implements a gaze-guided learning approach to improve visual classification by mitigating shortcut bias. The model is based on Vision Transformer (ViT) and trained on the Gaze-CIFAR-10 dataset.  
+This repository implements a gaze-guided learning approach to improve visual classification by mitigating shortcut bias. The model is based on Vision Transformer (ViT) and trained on the Gaze-CIFAR-10 dataset. 
+![Example Image](https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/motivation.png)
 
 ## Pretrained Model  
 The pretrained ViT model can be downloaded from the following link:  
