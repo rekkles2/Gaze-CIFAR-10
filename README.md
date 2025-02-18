@@ -3,9 +3,7 @@
 ## Overview  
 This repository provides an implementation of **Gaze-Guided Learning**, a method designed to reduce shortcut bias in visual classification using eye-tracking data. The model is based on **Vision Transformer (ViT)** and trained on the **Gaze-CIFAR-10** dataset.  
 
-<div align="center">
-  <img src="https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/motivation.png" alt="Motivation Figure" width="600">
-</div>  
+![Example Image](https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/motivation.png) 
 
 ---
 
@@ -17,11 +15,9 @@ The **pretrained ViT model** can be downloaded from the following link:
 
 ## Dataset  
 The **Gaze-CIFAR-10** dataset can be downloaded from:  
-📂 [Gaze-CIFAR-10 Dataset](https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB?usp=drive_link)  
+📂📂📂 [**Gaze-CIFAR-10 Dataset**](https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB?usp=drive_link)  
 
-<div align="center">
-  <img src="https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/EX.png" alt="Dataset Example" width="500">
-</div>  
+![Example Image](https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/EX.png)
 
 ---
 
