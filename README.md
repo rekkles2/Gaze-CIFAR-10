@@ -1,4 +1,4 @@
-# Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification  
+
 
 ## Overview  
 This repository provides an implementation of **Gaze-Guided Learning**, a method designed to reduce shortcut bias in visual classification using eye-tracking data. The model is based on **Vision Transformer (ViT)** and trained on the **Gaze-CIFAR-10** dataset.  
