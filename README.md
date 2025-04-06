@@ -7,12 +7,12 @@
 
 ## 📜 Abstract
 Inspired by human visual attention, deep neural networks have widely adopted attention mechanisms to learn locally discriminative attributes for challenging visual classification tasks. However, existing approaches primarily emphasize the representation of such features while neglecting their precise localization, which often leads to misclassification caused by shortcut biases. This limitation becomes even more pronounced when models are evaluated on transfer or out-of-distribution datasets. In contrast, humans are capable of leveraging prior object knowledge to quickly localize and compare fine-grained attributes, a capability that is especially crucial in complex and high-variance classification scenarios. Motivated by this, we introduce **Gaze-CIFAR-10**, a human gaze time-series dataset, along with a **dual-sequence gaze encoder** that models the precise sequential localization of human attention on distinct local attributes. In parallel, a **Vision Transformer (ViT)** is employed to learn the sequential representation of image content. Through cross-modal fusion, our framework integrates human gaze priors with machine-derived visual sequences, effectively correcting inaccurate localization in image feature representations. Extensive qualitative and quantitative experiments demonstrate that gaze-guided cognitive cues significantly enhance classification accuracy.
-
+![Motivation Figure](https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/motivation.png)
 ---
 
 ## 🧠 Method Overview
+![Model](https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/model.jpeg)
 
-![Motivation Figure](https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/motivation.png)
 
 ---
 
