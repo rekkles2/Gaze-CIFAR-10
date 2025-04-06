@@ -7,6 +7,9 @@
   <a href="https://github.com/rekkles2/Gaze-CIFAR-10">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/rekkles2/Gaze-CIFAR-10?style=social" />
   </a>
+  <a href="https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB?usp=drive_link">
+    <img alt="Download Dataset" src="https://img.shields.io/badge/Download-GoogleDrive-brightgreen?logo=google-drive" />
+  </a>
 </p>
 
 <p align="center"><strong>⭐ If you find our dataset and code useful, please consider starring this repository and citing our paper!</strong></p>
