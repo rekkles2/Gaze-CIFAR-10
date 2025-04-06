@@ -35,13 +35,13 @@
 
 ## 📂 Dataset
 
-The **Gaze-CIFAR-10** dataset can be downloaded from:
+The *Gaze-CIFAR-10* dataset can be downloaded from:
 
 👉 [**Gaze-CIFAR-10 Dataset**](https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB?usp=drive_link)
 
 <p align="center">
   <img src="https://github.com/rekkles2/Gaze-CIFAR-10/blob/main/Figure/exp.png" alt="Example Samples" width="100%">
-  <br/><em>Gaze data collection setup. (a) Overview of our data acquisition system. (b) Step 1: Reconstruct image resolution. Step 2: Participants freely view two randomly selected images from different categories. Step 3: One image is randomly re-sampled from the previously viewed categories and shown again for focused observation. Step 4: Gaze data is transmitted to the PC for processing.</em>
+  <br/><em>Figure: Gaze data collection setup. (a) Overview of our data acquisition system. (b) Step 1: Reconstruct image resolution. Step 2: Participants freely view two randomly selected images from different categories. Step 3: One image is randomly re-sampled from the previously viewed categories and shown again for focused observation. Step 4: Gaze data is transmitted to the PC for processing.</em>
 </p>
 
 ---
