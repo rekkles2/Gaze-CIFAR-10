@@ -98,9 +98,8 @@ python predict1.py
 
 ## 📈 Star History
 
-<p align="center">
-  <a href="https://www.star-history.com/#rekkles2/Gaze-CIFAR-10&Date">
-    <img src="https://api.star-history.com/svg?repos=rekkles2/Gaze-CIFAR-10&type=Date" alt="Star History Chart"/>
-  </a>
-</p>
-```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rekkles2/Gaze-CIFAR-10&type=Date)](https://www.star-history.com/#rekkles2/Gaze-CIFAR-10&Date)
+  
+
+
