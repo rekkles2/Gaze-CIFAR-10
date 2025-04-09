@@ -1,18 +1,39 @@
+
 <h1 align="center">👀 Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification</h1>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2504.05583v1">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.05583v1-b31b1b?logo=arxiv&logoColor=white" />
+  </a>
   <a href="https://szyyjl.github.io/eye_tracking_data.github.io/">
     <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome" />
   </a>
-  <a href="https://github.com/rekkles2/Gaze-CIFAR-10">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/rekkles2/Gaze-CIFAR-10?style=social" />
-  </a>
   <a href="https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB?usp=drive_link">
-    <img alt="Download Dataset" src="https://img.shields.io/badge/Download-GoogleDrive-brightgreen?logo=google-drive" />
+    <img alt="Download Dataset" src="https://img.shields.io/badge/Dataset-GoogleDrive-brightgreen?logo=google-drive" />
   </a>
+  <a href="https://paperswithcode.com/dataset/gaze-cifar-10">
+    <img alt="Papers with Code" src="https://img.shields.io/badge/PaperWithCode-Gaze--CIFAR--10-orange?logo=paperswithcode" />
+  </a>
+  <img alt="BibTeX" src="https://img.shields.io/badge/Cite-BibTeX-red?logo=latex" />
 </p>
 
 <p align="center"><strong>⭐ If you find our dataset and code useful, please consider starring this repository and citing our paper!</strong></p>
+
+<details open>
+<summary><strong>📋 BibTeX Citation (click to expand)</strong></summary>
+
+```
+@misc{li2025gazeguided,
+    title={Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification},
+    author={Jiahang Li and Shibo Xue and Yong Su},
+    year={2025},
+    eprint={2504.05583},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
+</details>
 
 ---
 
@@ -38,7 +59,7 @@
 
 ## 📂 Dataset
 
-The *Gaze-CIFAR-10* dataset can be downloaded from:
+You can download the <strong>Gaze-CIFAR-10</strong> dataset from the following link:
 
 👉 [**Gaze-CIFAR-10 Dataset**](https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB?usp=drive_link)
 
@@ -51,7 +72,7 @@ The *Gaze-CIFAR-10* dataset can be downloaded from:
 
 ## 🧠 Pretrained Model
 
-You can download the **pretrained ViT model** from:
+Download the pretrained **Vision Transformer (ViT)** model:
 
 📥 [ViT Pretrained Model](https://drive.google.com/file/d/1FPUIYmZ4ooMbWByXUzBRNGLcrIYvNsxz/view?usp=drive_link)
 
@@ -59,7 +80,7 @@ You can download the **pretrained ViT model** from:
 
 ## 🚀 Training
 
-Run the following command to **train** the model:
+To train the model, run:
 
 ```bash
 python train.py
@@ -69,14 +90,19 @@ python train.py
 
 ## 🔍 Evaluation
 
-Use the following command to **evaluate** the trained model:
+To evaluate the trained model, run:
 
 ```bash
 python predict1.py
 ```
 
-
 ---
 
 ## 📈 Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=rekkles2/Gaze-CIFAR-10&type=Date)](https://www.star-history.com/#rekkles2/Gaze-CIFAR-10&Date)
+
+<p align="center">
+  <a href="https://www.star-history.com/#rekkles2/Gaze-CIFAR-10&Date">
+    <img src="https://api.star-history.com/svg?repos=rekkles2/Gaze-CIFAR-10&type=Date" alt="Star History Chart"/>
+  </a>
+</p>
+```
