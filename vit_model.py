@@ -7,7 +7,7 @@ from functools import partial
 from collections import OrderedDict
 import torch
 import torch.nn as nn
-from TemporalTransformer import TemporalTransformer
+from DSGE import DSGE
 import torch.nn.functional as F
 
 def drop_path(x, drop_prob: float = 0., training: bool = False):
@@ -191,7 +191,7 @@ class VisionTransformer(nn.Module):
             norm_layer: (nn.Module): normalization layer
         """
         super(VisionTransformer, self).__init__()
-        self.ft_attention = TemporalTransformer(input_size=2, hidden_size=128, output_size=768, target_sequence_length=197, num_heads=8,
+        self.ft_attention = DSGE(input_size=2, hidden_size=128, output_size=768, target_sequence_length=197, num_heads=8,
                             num_layers=6)
         self.num_classes = num_classes
         self.num_features = self.embed_dim = embed_dim
