@@ -98,7 +98,6 @@ python predict1.py
 
 ## 📈 Star History
 
-
 [![Star History Chart](https://api.star-history.com/svg?repos=rekkles2/Gaze-CIFAR-10&type=Date)](https://www.star-history.com/#rekkles2/Gaze-CIFAR-10&Date)
   
 
