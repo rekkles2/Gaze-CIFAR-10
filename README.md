@@ -13,8 +13,6 @@
   </a>
   <a href="https://paperswithcode.com/dataset/gaze-cifar-10">
     <img alt="Papers with Code" src="https://img.shields.io/badge/PaperWithCode-Gaze--CIFAR--10-orange?logo=paperswithcode" />
-  </a>
-  <img alt="BibTeX" src="https://img.shields.io/badge/Cite-BibTeX-red?logo=latex" />
 </p>
 
 <p align="center"><strong>⭐ If you find our dataset and code useful, please consider starring this repository and citing our paper!</strong></p>
