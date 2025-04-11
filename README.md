@@ -21,13 +21,11 @@
 <summary><strong>📋 BibTeX Citation (click to expand)</strong></summary>
 
 ```
-@misc{li2025gazeguided,
-    title={Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification},
-    author={Jiahang Li and Shibo Xue and Yong Su},
-    year={2025},
-    eprint={2504.05583},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{li2025gaze,
+  title={Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification},
+  author={Li, Jiahang and Xue, Shibo and Su, Yong},
+  journal={arXiv preprint arXiv:2504.05583},
+  year={2025}
 }
 ```
 
